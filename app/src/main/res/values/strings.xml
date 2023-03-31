@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="title_home">Home</string>
+    <string name="title_BMI">BMI</string>
+    <string name="title_calories">BMR</string>
+    <string name="title_recipe">Recipe</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="calculate">Calculate</string>
+    <string name="height_in_cm">Height in cm</string>
+    <string name="weight_in_kg">Weight in kg</string>
+    <string name="title">BMI Calculator</string>
+    <string name="result">Your BMI is %.2f</string>
+    <string name="calories_result">Your BMR is %.2f</string>
+    <string name="calories_calculator">BMR Calculator</string>
+    <string name="age">Age</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="recipe1_title">Pancakes</string>
+    <string name="recipe2_title">English Brekfast</string>
+    <string name="recipe1_content">
+        Step 1: Heat a griddle or large skillet over medium-low heat.
+        In a bowl, mix together dry ingredients.
+        Beat eggs into 1½ cups milk, then stir in 2 tablespoons melted cooled butter, if using it.
+        Gently stir this mixture into dry ingredients, mixing only enough to moisten flour; don\'t worry about a few lumps.
+        If batter seems thick, add a little more milk.
+        Step 2: Place a teaspoon or 2 of butter or oil on griddle or skillet.
+        When butter foam subsides or oil shimmers, ladle batter onto griddle or skillet, making pancakes of any size you like.
+        Adjust heat as necessary; usually, the first batch will require higher heat than subsequent batches.
+        Flip pancakes after bubbles rise to the surface and bottoms brown, after 2 to 4 minutes.
+        Step 3: Cook until the second side is lightly browned.
+        Serve or hold on an ovenproof plate in a 200-degree oven for up to 15 minutes.
+    </string>
+    <string name="recipe2_content">
+        INGREDIENTS:
+        1 cup (136 grams) baked beans
+        4 slices bacon
+        4 pork sausages
+        6 ounces (170 grams) mushrooms
+        2 ripe tomatoes, cut in half
+        Small pinch of salt
+        2 slices black pudding
+        2 slices white bread
+        4 large eggs
+        Lard or cooking oil of your choice (if needed)
+        INSTRUCTIONS:
+
+        Preheat oven to 200°F/95°C. Place a large, ovenproof dish in the oven to keep warm.
+        To a small saucepan, add the beans and keep warm over medium-low heat.
+        Heat a large frying pan over medium heat and add the bacon and sausages. Cook until the bacon is cooked and the sausage is browned (turning to brown evenly). Transfer to the dish in the oven to keep warm.
+        To the fat from the bacon (add lard or oil if needed). Cook the mushrooms over medium heat until browned. Transfer to the oven, keeping the fat in the pan.
+        Season the tomatoes with salt and add them flesh down to the same pan. Add the black pudding and cook each for 2 minutes per side. Remove and transfer to the dish in the oven.
+        If needed, add more lard or oil to the pan over medium-high heat. Add the bread to the oil (test it by putting in a corner of bread, if it sizzles, it’s ready) and cook until golden brown. Remove to a paper towel to drain.
+        To the same oil add the eggs and spoon hot oil over the yolks until cooked.
+        Serve all the components on a plate with the bread on the side.
+    </string>
+</resources>
