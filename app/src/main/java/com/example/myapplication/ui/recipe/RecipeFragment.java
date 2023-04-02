@@ -1,6 +1,5 @@
 package com.example.myapplication.ui.recipe;
 
-import androidx.lifecycle.ViewModelProvider;
 
 import android.os.Bundle;
 
@@ -15,11 +14,6 @@ import android.view.ViewGroup;
 import com.example.myapplication.R;
 
 public class RecipeFragment extends Fragment {
-
-
-    public static RecipeFragment newInstance() {
-        return new RecipeFragment();
-    }
 
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container,
