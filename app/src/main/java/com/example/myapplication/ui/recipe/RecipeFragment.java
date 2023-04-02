@@ -16,7 +16,6 @@ import com.example.myapplication.R;
 
 public class RecipeFragment extends Fragment {
 
-    private RecipeViewModel mViewModel;
 
     public static RecipeFragment newInstance() {
         return new RecipeFragment();
@@ -31,8 +30,6 @@ public class RecipeFragment extends Fragment {
     @Override
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
-        mViewModel = new ViewModelProvider(this).get(RecipeViewModel.class);
-        // TODO: Use the ViewModel
     }
 
 }
