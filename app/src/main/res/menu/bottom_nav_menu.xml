@@ -21,4 +21,9 @@
         android:icon="@drawable/recipe_24"
         android:title="@string/title_recipe" />
 
+    <item
+        android:id="@+id/navigation_quiz"
+        android:icon="@drawable/recipe_24"
+        android:title="@string/quiz" />
+
 </menu>

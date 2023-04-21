@@ -53,4 +53,21 @@
         To the same oil add the eggs and spoon hot oil over the yolks until cooked.
         Serve all the components on a plate with the bread on the side.
     </string>
+    <string name="graph">Graph</string>
+    <string name="quiz">Quiz</string>
+    <string name="see_stats_here">See stats here</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="question_text">Question Text</string>
+    <string name="correct_text">Correct!</string>
+    <string name="incorrect_text">InCorrect!</string>
+    <string name="first_score_text">Correct!</string>
+    <string name="correct_toast_message">Correct!</string>
+    <string name="incorrect_toast_message">InCorrect!</string>
+    <string name="q1">Is consuming a high amount of processed foods bad for your health?</string>
+    <string name="q2">Should you limit your intake of saturated fats for a healthy diet?</string>
+    <string name="q3">Is it important to get enough sleep for good health?</string>
+    <string name="q4">Should you eat a variety of fruits and vegetables for a healthy diet?</string>
+    <string name="q5">Is smoking harmful to your health?</string>
+    <string name="q6">Is it important to stay hydrated for good health?</string>
 </resources>
