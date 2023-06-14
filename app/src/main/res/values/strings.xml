@@ -70,4 +70,5 @@
     <string name="q4">Should you eat a variety of fruits and vegetables for a healthy diet?</string>
     <string name="q5">Is smoking harmful to your health?</string>
     <string name="q6">Is it important to stay hydrated for good health?</string>
+    <string name="title_chart">Chart</string>
 </resources>
